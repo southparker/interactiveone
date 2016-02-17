@@ -1,0 +1,134 @@
+body {
+	background-color: #123c26;
+	background: linear-gradient(#8dd8f8, ##123c26);
+	background: -webkit-linear-gradient(#8dd8f8, #123c26);
+	background: -moz-linear-gradient(#8dd8f8, #123c26);
+}
+
+h1 {
+	text-align: center;
+	color: #9b0f0f;
+}
+
+#title{
+	font-family: tahoma;
+	text-shadow: 2px 2px 2px #0A0E3D;
+}
+
+#header {
+	width: 550px;
+	height: 220px;
+	color: white;
+	margin: auto;
+	background-image: url(../images/explosion.gif);
+	text-shadow: 2px 2px 5px #0A0A0A;
+}
+
+#container {
+	width: 650px;
+	height: 9150px;
+	color: black;
+	padding: 70px;
+	margin: auto;
+	background-color: #e6e6e6;
+		font-family: verdana;
+}
+
+#picture1{
+	margin: auto;
+	position: center;
+	text-align: center;
+}
+
+#quote1{
+	font-size: 20px;
+	font-family: verdana;
+	color: #9b0f0f;
+	width: 350px;
+	height: 180px;
+	text-align: center;
+	margin: auto;
+	position: center;
+}
+
+#picture2{
+	margin: auto;
+	position: center;
+	text-align: center;
+}
+
+#caption1{
+font-size: 10px;
+text-align: center;
+}
+
+#picture3{
+	margin: auto;
+	position: center;
+	text-align: center;
+}
+
+#caption2{
+font-size: 10px;
+text-align: center;
+}
+
+#picture4{
+	margin: auto;
+	position: center;
+	text-align: center;
+}
+
+#quote2{
+	font-size: 20px;
+	font-family: verdana;
+	color: #9b0f0f;
+	width: 350px;
+	height: 180px;
+	text-align: center;
+	margin: auto;
+	position: center;
+}
+
+#picture5{
+	margin: auto;
+	position: center;
+	text-align: center;
+}
+
+#caption3{
+font-size: 10px;
+text-align: center;
+}
+
+#quote3{
+	font-size: 20px;
+	font-family: verdana;
+	color: #9b0f0f;
+	width: 360px;
+	height: 230px;
+	text-align: center;
+	margin: auto;
+	position: center;
+}
+
+#caption4{
+font-size: 10px;
+text-align: center;
+}
+
+#quote4{
+	font-size: 20px;
+	font-family: verdana;
+	color: #9b0f0f;
+	width: 360px;
+	height: 250px;
+	text-align: center;
+	margin: auto;
+	position: center;
+}
+
+#space{
+	padding: 10px;
+}
+
