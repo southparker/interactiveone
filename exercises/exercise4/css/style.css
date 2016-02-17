@@ -1,0 +1,53 @@
+body{ background-color: #ffff99;
+}
+
+#box{
+	height: 100px;
+	width: 100px;
+	background-color: #ccccff;
+	border-radius:  10px;
+}
+
+#box1{
+	height: 100px;
+	width: 100px;
+	background-color: #ff9966;
+	border-radius:  10px;
+	float: left;
+}
+
+#circle{
+	height: 400px;
+	width: 400px;
+	border-radius: 50%;
+	background: #cc99ff;
+	float: left;
+	z-index: 0;
+}
+
+#circ{
+	height: 300px;
+	width: 300px;
+	background: #6699ff;
+	border-radius: 50%;
+	position: absolute;
+	top: 500px;
+	left: 10px;
+}
+
+#circl{
+	height: 300px;
+	width: 300px;
+	background: #6699ff;
+	border-radius: 50%;
+	float: left;
+	z-index: 1;
+
+}
+
+
+
+
+
+
+
