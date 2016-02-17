@@ -1,0 +1,27 @@
+body {
+background-color: #ffe6e6; 
+} 
+
+p {
+	font-family: georgia, times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	font-style:  italic;
+	line-height: 1.4em;
+	text-align: center;
+}
+
+h1 {font-size: 50px;
+	color: #123057;}
+
+h3 {
+	font-size: 24px
+}
+
+ul {
+font-family: Helvetica;
+color: orange;
+font-size: 50px;
+font-weight: bold;
+
+}
