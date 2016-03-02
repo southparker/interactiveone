@@ -1,0 +1,623 @@
+
+body{
+
+	background-image: url(../images/skybg.png);
+
+}
+
+.box{
+
+    float: left;
+
+    display:inline-block;
+
+    width: 75px; 
+
+    height: 75px;
+
+}
+
+	#beach{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/beach.png);
+	}
+
+	#harajuku{
+
+	 	width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/jp1.png);
+
+		position: top;
+	}
+
+
+
+			#jptrees{
+
+				width: 75px; 
+
+				height: 75px;
+
+				background-image: url(../images/jptrees.jpg);
+
+				position: right;
+
+			}
+
+			#petals{
+
+				width: 75px; 
+
+				height: 75px;
+
+				background-image: url(../images/petals.png);
+
+				position: right;
+
+			}
+
+
+.triangleblu{
+
+ 	border-left: none;
+
+    border-right: 150px solid blue;
+
+    border-bottom: 0px solid transparent;
+
+    border-top: 150px solid transparent;
+
+}
+
+.trianglered{
+
+ 	border-left: none;
+
+    border-right: 150px solid red;
+
+    border-bottom: 0px solid transparent;
+    
+    border-top: 150px solid transparent;
+
+    transform:rotate(180deg);
+
+}
+
+
+		#tulip{ 
+
+			width: 75px; 
+
+			height: 75px; 
+
+			background-image: url(../images/jptulip.png);
+
+			position: right;
+
+		}
+
+		#lompocorange{
+
+			width: 75px; 
+
+		    height: 75px;
+
+			background-image: url(../images/lompoc.jpg);
+
+			position: right;
+
+			border-width: 200px
+		}
+
+.box2{
+
+  	float: left;
+
+    display:inline-block;
+
+    width: 75px; 
+
+    height: 75px;
+
+}
+
+#astro{
+
+	width: 75px; 
+
+	height: 75px;
+
+	background-image: url(../images/astro.png);
+
+	position: right;
+
+}
+
+#pattern{
+
+	width: 75px; 
+
+	height: 75px;
+
+	background-image: url(../images/pattern.png);
+
+	position: top;
+
+}
+
+#crepe{
+
+	width: 75px; 
+
+	height: 75px;
+
+	background-image: url(../images/crepe.jpg);
+
+	position: top;
+
+}
+
+
+#painting{
+
+	width: 75px; 
+
+	height: 75px;
+
+	background-image: url(../images/painting.jpg);
+
+	position: top;
+
+}
+
+
+
+#macaron{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/macaron.png);
+
+	position: top;
+
+}
+
+#caspie{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/casp.jpg);
+
+	position: top;
+
+}
+
+#mblanket{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/mblanket.jpg);
+
+	position: top;
+
+}
+
+#cake{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/100cake.jpg);
+
+	position: top;
+
+}
+
+
+#hundredfood{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/hundredfood.jpg);
+
+	position: top;
+
+}
+
+
+#grover{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/grover.png);
+
+	position: top;
+
+}
+
+
+#babycouch{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/babycouch.jpg);
+
+	position: top;
+
+}
+
+.box2{
+
+	top: 25px; 
+
+	left: 25px; 
+
+	z-index: 1;
+
+	float: left;
+
+    display:inline-block;
+
+    width: 75px; 
+
+    height: 75px;
+}
+
+#krtable{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/krtable.jpg);
+
+	position: top;
+
+}
+
+
+#basket{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/basket.jpg);
+
+	position: top;
+
+}
+
+#hotdawgs{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/hotdogs.png);
+
+
+}
+
+#dolphie{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/dolphin.png);
+
+}
+
+
+
+#krbeach{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/krbeach.jpg);
+
+	position: top;
+
+}
+
+
+#stroller{
+
+	width: 75px; 
+
+	height: 75px; 
+
+	background-image: url(../images/stroller.jpg);
+
+	position: top;
+
+}
+
+#ktext{
+
+	font-size: 30px;
+
+	color: white;
+
+	font-style: verdana;
+
+	text-align: left;
+}
+
+#gate{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/gate.png);
+	}
+
+
+#hands{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/hands.png);
+	}
+
+
+	#floral{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/floral.png);
+	}
+
+
+			#horsie{
+
+					width: 75px; 
+
+				    height: 75px;
+
+					background-image: url(../images/horsie.png);
+				}
+
+#umbrellas{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/umbrellas.png);
+	}
+
+
+#crotch{
+
+					width: 75px; 
+
+				    height: 75px;
+
+					background-image: url(../images/crotchshot.png);
+				}
+
+#barney{
+
+					width: 75px; 
+
+				    height: 75px;
+
+					background-image: url(../images/barney.png);
+				}
+
+
+#thanks{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/thanks.png);
+	}
+
+
+
+#plastic{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/plastic.png);
+	}
+
+
+#netting{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/netting.png);
+	}
+
+
+#okwall{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/okwall.png);
+	}
+
+
+
+#chair{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/chair.png);
+	}
+
+#hula{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/hula.png);
+	}
+
+
+#yakult{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/yakult.png);
+	}
+
+#mouth{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/mouth.png);
+	}
+
+
+#dress{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/dress.png);
+	}
+
+
+#krtubes{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/krtubes.png);
+	}
+
+
+#okwood{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/okwood.png);
+	}
+
+
+#hambok{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/hambok.png);
+	}
+
+
+#space{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/space.png);
+	}
+
+
+
+#water{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/water.png);
+	}
+
+
+#manatee{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/manatee.png);
+	}
+
+#ppl{
+
+		width: 75px; 
+
+	    height: 75px;
+
+		background-image: url(../images/ppl.png);
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
