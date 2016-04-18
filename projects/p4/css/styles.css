@@ -1,0 +1,55 @@
+body {
+    background-color: #ccb3ff;
+}
+#container {
+    width: 1200px;
+    height: 1200px;
+    padding-top: 105px;
+}
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url("Roboto-Black.ttf");
+}
+#piggy1 {
+    font-family: Roboto-Black;
+    font-size: 90px;
+    color: #ffcce6;
+    text-align: right;
+    position: absolute;
+    right: 0;
+    top:0px;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 1.5s;
+}
+#market {
+    font-family: Roboto-Black;
+    font-size: 90px;
+    color: #19004d;
+    text-align: left;
+}
+#home, #home a {
+    font-family: Roboto-Black;
+    font-size: 90px;
+    color: #19004d;
+    text-align: left;
+}
+#me {
+	-webkit-transition-property: all;
+    -webkit-transition-duration: 2s;
+}
+
+#market:hover ~ #piggy1  {
+    right: 100%;
+    left: 0;
+    top: 105px;
+}
+#home:hover ~ #piggy1  {
+    right: 100%;
+    left: 140px;
+    top: 210px;
+}
+#home:hover #me {
+	margin-left: 240px;
+}
+
+

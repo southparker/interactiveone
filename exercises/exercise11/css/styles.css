@@ -1,0 +1,72 @@
+body{
+	background-color:  #ccb3ff;
+}
+
+#container{
+	width: 1200px;
+	height: 1200px;
+	margin: auto;
+}
+
+@font-face {
+font-family: 'Muncie';
+src: url("Muncie.ttf");
+}
+
+@font-face {
+font-family: 'menschthin';
+src: url("menschthin.ttf");
+}
+
+@font-face {
+font-family: 'Plantagenet Cherokee';
+src: url("Plantagenet Cherokee.ttf");
+
+}
+
+@font-face {
+font-family: 'Tommaso';
+src: url("Tommaso.ttf");
+
+}
+
+#main{
+font-family: Muncie;
+font-size: 120px;
+color: #19004d;
+text-align: center;
+
+}
+
+#main2{
+font-family: menschthin;
+font-size: 150px;
+color: #e600e6;
+text-align: center;
+
+}
+
+#box{
+font-family: Plantagenet Cherokee;
+font-size: 120px;
+color: #ccffe6;
+text-align: center;
+
+}
+
+#author{
+font-family: Tommaso;
+font-size: 120px;
+color: #005580;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
