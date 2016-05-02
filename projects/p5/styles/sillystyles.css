@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color: black;
+background: #64c4ea; /* Old browsers */
+background: -moz-linear-gradient(top, #64c4ea 0%, #2989d8 25%, #2989d8 25%, #207cca 51%, #34026b 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #64c4ea 0%,#2989d8 25%,#2989d8 25%,#207cca 51%,#34026b 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #64c4ea 0%,#2989d8 25%,#2989d8 25%,#207cca 51%,#34026b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+#header {
+   text-align: center;
+   width: 100%;
+   display: block;
+   margin: auto;
+}
+
+#container {
+   text-align: center;
+   display: block;
+   margin: auto;
+}
+
+#draggable {
+  border-color: #ffffff;
+
+}
+
+.ui-draggable {
+  position:relative;
+  z-index:0;
+}
+
+#caspie{
+  position: relative;
+  left: 100px;
+  bottom: -100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

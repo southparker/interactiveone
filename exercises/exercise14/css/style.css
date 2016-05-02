@@ -1,0 +1,93 @@
+body {padding:50px;
+background-color: #001a14;}
+
+div {
+  cursor:move;
+  width:70px;
+  height:70px;
+  background-color:red;
+  margin:2px;
+  float:left;
+}
+
+.draggable {
+  background-color:white;
+}
+
+
+.pink{
+ cursor:move;
+ width:70px;
+ height:70px;
+ background-color:#ff9966;
+ border:2px solid white;
+ margin:2px;
+ float:left;
+
+}
+
+.green{
+ cursor:move;
+ width:70px;
+ height:70px;
+ background-color:#00cca3;
+ margin:2px;
+ float:left;
+}
+
+
+.blue{
+ cursor:move;
+ width:670px;
+ height:70px;
+ background-color:#ccff66;
+ margin:2px;
+ float:left;
+}
+
+.blu{
+ cursor:move;
+ width:370px;
+ height:470px;
+ background-color:#66ffe0;
+ margin:2px;
+ float:left;
+}
+
+.bright{
+ cursor:move;
+ width:270px;
+ height:270px;
+ background-color:#66ff66;
+ margin:2px;
+ float:left;
+}
+
+.purple{
+ cursor:move;
+ width:100px;
+ height:10px;
+ background-color:#ff66ff;
+ margin:2px;
+ float:left;
+}
+
+.yello{
+ cursor:move;
+ width:250px;
+ height:250px;
+ background-color:#ffff00;
+ margin:2px;
+ float:left;
+}
+
+.poiple{
+ cursor:move;
+ width:200px;
+ height:200px;
+ background-color:#8000ff;
+ margin:2px;
+ float:left;
+}
+
+

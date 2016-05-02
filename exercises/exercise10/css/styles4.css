@@ -1,0 +1,79 @@
+@-webkit-keyframes example {
+   from { transform: scale(2.0); }
+   to   { transform: scale(1.0); }
+}
+
+.colorbox {
+   margin-left: 250px;
+   margin-top: 250px;
+   height: 400px;
+   width: 800px;
+   color: #CC0066;
+   font-family: helvetica;
+   font-size: 380px;
+   vertical-align: text-top;
+   text-align: center;
+
+   -webkit-animation-name: example;
+   -webkit-animation-duration: .9s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: .3s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   animation-iteration-count: infinite;
+}
+
+.colorbox2 {
+   margin-left: 150px;
+   margin-top: 150px;
+   height: 400px;
+   width: 800px;
+   color: #FF6633;
+   font-family: garamond;
+   font-size: 150px;
+   vertical-align: text-top;
+   text-align: center;
+
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 5s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 5s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   animation-iteration-count: infinite;
+}
+
+
+body{
+
+	background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
