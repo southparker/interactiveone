@@ -11,8 +11,11 @@ $(function() {
 
    });
 
+$('.draggable').draggable();
 
-        $(function(){
-          $.okvideo({ source: 'https://www.youtube.com/watch?v=OCowsu0mQto',
-                    volume: 100})
-        });
+$('.resizable').resizable({
+    aspectRatio: true,
+    handles: 'ne, se, sw, nw'
+});
+
+$('.resizable').parent().rotatable();
